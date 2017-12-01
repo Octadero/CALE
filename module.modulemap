@@ -1,0 +1,4 @@
+module CALE [system] {
+  link "ale_c"
+  export *
+}
