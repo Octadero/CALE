@@ -1,4 +1,5 @@
 module CALE [system] {
   link "ale_c"
+  header "ale_c_wrapper.h"
   export *
 }
